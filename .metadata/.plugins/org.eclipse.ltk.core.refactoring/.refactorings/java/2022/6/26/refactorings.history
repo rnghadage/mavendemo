@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;reversenumb.java&apos; to &apos;Demo111/src/practice&apos;&#x0D;&#x0A;- Original project: &apos;java&apos;&#x0D;&#x0A;- Destination element: &apos;Demo111/src/practice&apos;&#x0D;&#x0A;- Original element: &apos;java.reversenumb.java&apos;" description="Copy compilation unit" destination="=Demo111/src&lt;practice" element1="/src&lt;java{reversenumb.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1656594768490" units="1" version="1.0"/>
+</session>

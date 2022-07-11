@@ -1,0 +1,12 @@
+package rohit;
+
+public class Ifelseif2 {
+
+	public static void main(String[] args) {
+
+		 int marks = 67;
+		 if (marks<50)
+			 System.out.println("fail");
+	}
+
+}

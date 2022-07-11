@@ -1,0 +1,10 @@
+package javapractise;
+
+public class Evenoddnum {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

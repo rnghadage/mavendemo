@@ -1,0 +1,17 @@
+package rohit;
+
+public class nestedif {
+
+	public static void main(String[] args) {
+
+		int age = 20;
+		int weight =58 ;
+		if (age>=20);
+		{if (weight>=56)
+			System.out.println("your edigible to donataion of blood ");
+		
+				
+	}
+
+	}
+	}

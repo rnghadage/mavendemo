@@ -1,0 +1,15 @@
+package hardandsoftassert;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+public class Hardassert {
+  @Test
+  public void Verifypagetitle() {
+	  String expected_Title="Prachi";
+	  String actual_Title = "Prachi";
+	  System.out.println("Test casse exucution started");
+  Assert.assertEquals("Prachi", "Prachi");
+  System.out.println("Test case exucution failed ");
+  }
+}

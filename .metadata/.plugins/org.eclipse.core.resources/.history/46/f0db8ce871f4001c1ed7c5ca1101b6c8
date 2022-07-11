@@ -1,0 +1,20 @@
+package hardandsoftassert;
+
+import org.testng.annotations.Test;
+
+public class SoftAssert {
+  @Test
+  public void Verifypagetitle() {
+	  String expected_Title = "Rohit";
+	  String actual_Title =  "Prachi";
+	  SoftAssert softassert = new SoftAssert();
+	  System.out.println("Test case exicution started");
+	  String expected_PageUrl ="google.com";
+	  String actual_PageUrl = "google.co.in";
+	  softassert.assert
+	  
+		System.out.println("Test case exicution passed");
+	  
+	  
+  }
+}

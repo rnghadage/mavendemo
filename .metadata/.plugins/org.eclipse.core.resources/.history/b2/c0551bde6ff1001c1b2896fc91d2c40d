@@ -1,0 +1,18 @@
+
+
+package demo123;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+
+public class Pomdemo {
+
+	
+	private WebElement SEARCH ;
+	public  (WebDriver driver);
+	{
+		pagef 
+	}
+	
+
+}

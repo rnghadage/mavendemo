@@ -1,0 +1,19 @@
+package javapractise;
+
+public class Evenoddnum {
+
+	public static void main(String[] args) {
+ int a = 66;
+ if (a%2 ==0)
+ {
+	 System.out.println("number is odd");
+ }
+ else {
+	 System.out.println("number is odd");
+	 
+ }
+ 
+ 
+	}
+
+}

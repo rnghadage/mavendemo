@@ -1,0 +1,21 @@
+package rohit;
+
+public class Nestedif2 {
+
+	public static void main(String[] args) {
+int age =20;
+int weight =84;
+if (weight>= 55 && weight<= 90);
+{
+	if (age >= 20 && age<= 55);{
+		System.out.println("your edigible for blood donation");
+	}
+	else {
+		System.out.println("your not edigible for blood donation");
+	}
+	}
+	}
+	}
+	
+
+

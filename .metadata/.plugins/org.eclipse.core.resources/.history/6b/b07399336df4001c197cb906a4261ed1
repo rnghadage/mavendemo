@@ -1,0 +1,9 @@
+package hardandsoftassert;
+
+import org.testng.annotations.Test;
+
+public class Hardassert {
+  @Test
+  public void f() {
+  }
+}

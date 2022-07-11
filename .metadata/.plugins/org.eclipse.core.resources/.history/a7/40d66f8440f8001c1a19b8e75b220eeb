@@ -1,0 +1,13 @@
+package rohit;
+
+public class Arithmetic1 {
+
+	public static void main(String[] args) {
+		int a = 5;
+		int b= 3;
+		System.out.println("reaminder of a and b is:" +(a%b));
+				
+
+	}
+
+}
